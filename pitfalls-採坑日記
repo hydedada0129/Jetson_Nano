@@ -1,0 +1,4 @@
+Q: ssh 失效？
+A: re-flash 新的sd card後，舊的ssh key要刪除，重新連線後會建立新的key，才能成功連線
+
+Q:
